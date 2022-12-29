@@ -1,0 +1,646 @@
+{
+  "sets": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117164/ROMSEM/sets/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD_%D1%81%D0%B5%D1%82_ix2lpq.png",
+      "name": "Саломон сет",
+      "info": "1050 грамм, 30 кусочков",
+      "price": "1500 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117164/ROMSEM/sets/%D0%A1%D0%B5%D1%82_5_mm179b.png",
+      "name": "Сет \"5 Филадельфий\"",
+      "info": "1120 грамм 40 кусочек",
+      "price": "1499 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117164/ROMSEM/sets/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_%D0%B8_%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D1%8C_%D1%81%D0%B5%D1%82_uvpmgc.png",
+      "name": "Филадельфия и лосось сет",
+      "info": "1260 грамм 36 кусочек",
+      "price": "1499 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117164/ROMSEM/sets/%D0%A1%D0%B5%D1%82_6_fj3jzr.png",
+      "name": "Сет \"6 Филадельфий\"",
+      "info": "1320 грамм 46 кусочек",
+      "price": "1559 COM"
+    },
+    {
+      "id": "5",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117156/ROMSEM/sets/%D0%A2%D0%BE%D0%BF%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B5%D1%82_quykhv.png",
+      "name": "Топовый сет",
+      "info": "1020 грамм 40 кусочек",
+      "price": "1519 COM"
+    },
+    {
+      "id": "6",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117156/ROMSEM/sets/%D0%9A%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%D0%B4%D0%B7%D0%B5_%D1%81%D0%B5%D1%82_tvgcie.png",
+      "name": "Камикадзе сет",
+      "info": "1200 грамм 52 кусочек",
+      "price": "1469 COM"
+    },
+    {
+      "id": "7",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117156/ROMSEM/sets/%D0%A1%D0%B5%D1%82_4_tanqyf.png",
+      "name": "Сет \"4 Филадельфии\"",
+      "info": "1100 грамм 32 кусочек",
+      "price": "1559 COM"
+    },
+    {
+      "id": "8",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117156/ROMSEM/sets/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_LOVE_%D1%81%D0%B5%D1%82_qw1f0j.png",
+      "name": "Филадельфия LOVE сет",
+      "info": "1000 грамм 40 кусочек",
+      "price": "1479 COM"
+    },
+    {
+      "id": "9",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671117156/ROMSEM/sets/%D0%AF%D0%BA%D1%83%D0%B4%D0%B7%D0%B0_%D1%81%D0%B5%D1%82_nim5mv.png",
+      "name": "Якудза сет",
+      "info": "1270 грамм 50 кусочек",
+      "price": "1499 COM"
+    }
+  ],
+  "pizza": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193160/ROMSEM/pizza/Garden%20Special.png",
+      "name": "Вегетарианская",
+      "info": "Помидоры, Свежие Грибы, Зелёный Перец, Чёрные Оливки, Сыр Моцарелла",
+      "price": "1500 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193160/ROMSEM/pizza/Cheddar%20Double%20Burger.png",
+      "name": "Чеддар Дабл Бургер",
+      "info": "Coys 1000 Островов, Помидоры, Сыр Моцарелла, Говядина, Чеддар",
+      "price": "1499 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193160/ROMSEM/pizza/Classic%20Pepperoni.png",
+      "name": "Классик Пепперони",
+      "info": "Пепперони, Экстра Моцарелла",
+      "price": "1499 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193158/ROMSEM/pizza/Hot%20N%20Spicy.png",
+      "name": "Хот энд Спайси",
+      "info": "Говядина, Помидоры, Зелёный Перец, Перец Халапеньё, Сыр Моцарелла",
+      "price": "1559 COM"
+    },
+    {
+      "id": "5",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193158/ROMSEM/pizza/Spicy%20Garden%20Special.png",
+      "name": "Острая Вегетарианская",
+      "info": "Перец Халапеньё, Помидоры, Свежие Грибы, Зелёный Перец, Чёрные Оливки, Сыр Моцарелла",
+      "price": "1519 COM"
+    },
+    {
+      "id": "6",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193160/ROMSEM/pizza/Cheddar%20Double%20Burger.png",
+      "name": "Мексиканская",
+      "info": "Курица Гриль, Помидоры, Свежие Грибы, Зелёный Перец, Перец Халапеньё, Сыр Моцарелла",
+      "price": "1469 COM"
+    },
+    {
+      "id": "7",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193158/ROMSEM/pizza/American%20Hot.png",
+      "name": "Чеддар Чикен Клаб",
+      "info": "Курица гриль, Помидоры, Ветчина, Моцарелла, Чеддар, Соус Ранч",
+      "price": "1559 COM"
+    },
+    {
+      "id": "8",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193160/ROMSEM/pizza/Garden%20Special.png",
+      "name": "Маргарита",
+      "info": "Помидоры, Орегано, Сыр Моцарелла",
+      "price": "1479 COM"
+    },
+    {
+      "id": "9",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671193158/ROMSEM/pizza/Spicy%20Garden%20Special.png",
+      "name": "Двойной Чизбургер",
+      "info": "Говядина, Солёные Огурцы, Помидоры, Сыр Моцарелла, Coys",
+      "price": "1499 COM"
+    }
+  ],
+  "wok": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211460/ROMSEM/wok/Vegetable_stir_fry_rjx6xu.png",
+      "name": "Овощное жаркое",
+      "info": "Помидоры, Свежие Грибы, Зелёный Перец, Чёрные Оливки, Сыр Моцарелла",
+      "price": "2500 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211851/ROMSEM/wok/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B0_wpet96.png",
+      "name": "Тайская подушка",
+      "info": "Pиcoвaя лапша, креветки, арахис, яичница, ростки фасоли",
+      "price": "2499 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671213585/ROMSEM/wok/%D0%A7%D0%BE%D1%83_%D0%9C%D0%B5%D0%B9%D0%BD_kbxnfu.jpg",
+      "name": "Жареный рис",
+      "info": "Pиc, яйца, овощи, морепродукты",
+      "price": "2499 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671213585/ROMSEM/wok/%D0%A7%D0%BE%D1%83_%D0%9C%D0%B5%D0%B9%D0%BD_kbxnfu.jpg",
+      "name": "Чоу Мейн",
+      "info": "Жареная лапша, овощи, тофу",
+      "price": "2559 COM"
+    },
+    {
+      "id": "5",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211460/ROMSEM/wok/Vegetable_stir_fry_rjx6xu.png",
+      "name": "Овощное жаркое",
+      "info": "Помидоры, Свежие Грибы, Зелёный Перец, Чёрные Оливки, Сыр Моцарелла",
+      "price": "2500 COM"
+    },
+    {
+      "id": "6",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211851/ROMSEM/wok/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B0_wpet96.png",
+      "name": "Тайская подушка",
+      "info": "Pиcoвaя лапша, креветки, арахис, яичница, ростки фасоли",
+      "price": "2499 COM"
+    },
+    {
+      "id": "7",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211851/ROMSEM/wok/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B0_wpet96.png",
+      "name": "Жареный рис",
+      "info": "Pиc, яйца, овощи, морепродукты",
+      "price": "2499 COM"
+    },
+    {
+      "id": "8",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671213585/ROMSEM/wok/%D0%A7%D0%BE%D1%83_%D0%9C%D0%B5%D0%B9%D0%BD_kbxnfu.jpg",
+      "name": "Чоу Мейн",
+      "info": "Жареная лапша, овощи, тофу",
+      "price": "2559 COM"
+    },
+    {
+      "id": "9",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211460/ROMSEM/wok/Vegetable_stir_fry_rjx6xu.png",
+      "name": "Овощное жаркое",
+      "info": "Помидоры, Свежие Грибы, Зелёный Перец, Чёрные Оливки, Сыр Моцарелла",
+      "price": "2500 COM"
+    },
+    {
+      "id": "10",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211851/ROMSEM/wok/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B0_wpet96.png",
+      "name": "Тайская подушка",
+      "info": "Pиcoвaя лапша, креветки, арахис, яичница, ростки фасоли",
+      "price": "2499 COM"
+    },
+    {
+      "id": "12",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671211460/ROMSEM/wok/Vegetable_stir_fry_rjx6xu.png",
+      "name": "Жареный рис",
+      "info": "Pиc, яйца, овощи, морепродукты",
+      "price": "2499 COM"
+    },
+    {
+      "id": "13",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671213585/ROMSEM/wok/%D0%A7%D0%BE%D1%83_%D0%9C%D0%B5%D0%B9%D0%BD_kbxnfu.jpg",
+      "name": "Чоу Мейн",
+      "info": "Жареная лапша, овощи, тофу",
+      "price": "2559 COM"
+    }
+  ],
+  "roll": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_alyky4.png",
+      "name": "Авокадо Маки",
+      "info": "8 кусочков",
+      "price": "150 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%90%D1%80%D0%B8%D0%B3%D0%B0%D1%82%D0%BE_gtf9nq.png",
+      "name": "Лосось Хруст",
+      "info": "8 кусочков",
+      "price": "200 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Красный дракон",
+      "info": "8 кусочков",
+      "price": "140 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_alyky4.png",
+      "name": "Крабовые Роллы",
+      "info": "8 кусочков",
+      "price": "155 COM"
+    },
+    {
+      "id": "5",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%90%D1%80%D0%B8%D0%B3%D0%B0%D1%82%D0%BE_gtf9nq.png",
+      "name": "Банзай",
+      "info": "8 кусочков",
+      "price": "151 COM"
+    },
+    {
+      "id": "6",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Аригато",
+      "info": "8 кусочков",
+      "price": "146 COM"
+    },
+    {
+      "id": "7",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Калифорния",
+      "info": "8 кусочков",
+      "price": "155 COM"
+    },
+    {
+      "id": "8",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_alyky4.png",
+      "name": "Аляска",
+      "info": "8 кусочков",
+      "price": "147 COM"
+    },
+    {
+      "id": "9",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Унаги",
+      "info": "8 кусочков",
+      "price": "149 COM"
+    }
+  ],
+  "sushi": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_alyky4.png",
+      "name": "Авокадо Маки",
+      "info": "8 кусочков",
+      "price": "150 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%90%D1%80%D0%B8%D0%B3%D0%B0%D1%82%D0%BE_gtf9nq.png",
+      "name": "Лосось Хруст",
+      "info": "8 кусочков",
+      "price": "200 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Красный дракон",
+      "info": "8 кусочков",
+      "price": "140 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_alyky4.png",
+      "name": "Крабовые Роллы",
+      "info": "8 кусочков",
+      "price": "155 COM"
+    },
+    {
+      "id": "5",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%90%D1%80%D0%B8%D0%B3%D0%B0%D1%82%D0%BE_gtf9nq.png",
+      "name": "Банзай",
+      "info": "8 кусочков",
+      "price": "151 COM"
+    },
+    {
+      "id": "6",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Аригато",
+      "info": "8 кусочков",
+      "price": "146 COM"
+    },
+    {
+      "id": "7",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Калифорния",
+      "info": "8 кусочков",
+      "price": "155 COM"
+    },
+    {
+      "id": "8",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_alyky4.png",
+      "name": "Аляска",
+      "info": "8 кусочков",
+      "price": "147 COM"
+    },
+    {
+      "id": "9",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671214489/ROMSEM/roll/%D0%91%D0%B0%D0%BD%D0%B7%D0%B0%D0%B9_eday91.png",
+      "name": "Унаги",
+      "info": "8 кусочков",
+      "price": "149 COM"
+    }
+  ],
+  "salad": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671215993/ROMSEM/salad/Greek_Salad_ghaslj.jpg",
+      "name": "Салат Цезарь",
+      "info": "Курица Гриль, Салат Айсберг, Сухари, Помидоры, Пармесан, Соус Цезарь",
+      "price": "1500 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671215993/ROMSEM/salad/Tuna_Salad_no_tomato_Azer_158_1_cq98xx.jpg",
+      "name": "Греческий Салат",
+      "info": "Огурцы, Помидоры, Салат Айсберг, Чёрные Оливки, Сыр Фета, Итальянский Соус",
+      "price": "2000 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671215993/ROMSEM/salad/Garden_Slad_pxmmzx.jpg",
+      "name": "Овощной Салат",
+      "info": "Огурцы, Помидоры, Салат Айсберг, Чёрные Оливки, Зелёный Перец, Итальянский Соус",
+      "price": "1400 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671215993/ROMSEM/salad/Caesar_Salad_g9awfm.jpg",
+      "name": "Тунцовый Салат",
+      "info": "Тунец, Салат Айберг, Чёрные Оливки, Кукуруза, Огурцы, Итальянский Соус",
+      "price": "1550 COM"
+    }
+  ],
+  "soup": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671217804/ROMSEM/soup/Ramen_Chicken_lxx962.png",
+      "name": "Рамен Цыпленок",
+      "info": "Грибы, лапша, курица, зелень, приправы, соус острые, яйцо",
+      "price": "1500 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671217804/ROMSEM/soup/Tom_Yum_-_Chicken_twgypg.png",
+      "name": "Том Ям - Цыпленок",
+      "info": "Паста том ям, кокосовое молоко, шиитаке, тамато, кориандр, чеснок, курица",
+      "price": "2000 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671217805/ROMSEM/soup/Tom_Yum_-_Salmon_smnc5g.png",
+      "name": "Том Ям - Лосось",
+      "info": "Паста том ям, кокосовое молоко, шиитаке, тамато, кориандр, чеснок, лосось",
+      "price": "1400 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671217805/ROMSEM/soup/Tom_Yum_-_Seafood_lqhmdr.png",
+      "name": "Том Ям - Морепродукты",
+      "info": "Паста том ям, кокосовое молоко, шиитаке, тамато, кориандр, чеснок, морепродукты",
+      "price": "1550 COM"
+    }
+  ],
+  "corn": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671218713/ROMSEM/corn/corn_s8sker.png",
+      "name": "Корн дог",
+      "info": "5 кусочков",
+      "price": "500 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671218713/ROMSEM/corn/corn_s8sker.png",
+      "name": "Корн дог",
+      "info": "5 кусочков",
+      "price": "500 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671218713/ROMSEM/corn/corn_s8sker.png",
+      "name": "Корн дог",
+      "info": "5 кусочков",
+      "price": "500 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671218713/ROMSEM/corn/corn_s8sker.png",
+      "name": "Корн дог",
+      "info": "5 кусочков",
+      "price": "500 COM"
+    },
+    {
+      "id": "5",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671218713/ROMSEM/corn/corn_s8sker.png",
+      "name": "Корн дог",
+      "info": "5 кусочков",
+      "price": "500 COM"
+    }
+  ],
+  "drinks": [
+    {
+      "id": "1",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671237891/ROMSEM/drinks/1cocacola_pwctkn.png",
+      "name": "Кока Кола",
+      "info": "500мл",
+      "price": "150 COM"
+    },
+    {
+      "id": "2",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671237888/ROMSEM/drinks/1Sprite_gemanb.png",
+      "name": "Срайт",
+      "info": "500мл",
+      "price": "150 COM"
+    },
+    {
+      "id": "3",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671237889/ROMSEM/drinks/1Cappi_le1rgp.png",
+      "name": "Натуральные Соки - Cappy",
+      "info": "500мл",
+      "price": "150 COM"
+    },
+    {
+      "id": "4",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671237885/ROMSEM/drinks/1Fanta_se9ajr.png",
+      "name": "Фанта",
+      "info": "500мл",
+      "price": "150 COM"
+    },
+    {
+      "id": "5",
+      "pic": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671237886/ROMSEM/drinks/1Fusetea_rbgubc.png",
+      "name": "Фьюз Ти",
+      "info": "500мл",
+      "price": "150 COM"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "user_name": "Розалия",
+      "review": "Ваша доставка и ваши блюда лучшие в Харькове!) всегда очень вкусно, вовремя, всегда вежливые курьеры и девушки на телефоне"
+    },
+    {
+      "id": 2,
+      "user_name": "Елена",
+      "review": "Ооочень вкусно!!!!!"
+    },
+    {
+      "id": 3,
+      "user_name": "Сергей Гаврилюк",
+      "review": "Заказываем у Вас больше 2 -ух лет, были разные ситуации, но сервис стал лучше, суши вкуснее. За доставку сегодня на время, огромное спасибо, точь-в-точь в минута в минуту. Успехов Вам и приятных бонусов нам )"
+    },
+    {
+      "id": 4,
+      "user_name": "Cole Hengoed",
+      "review": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+    },
+    {
+      "id": 5,
+      "user_name": "Collete Stockford",
+      "review": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+    },
+    {
+      "id": 6,
+      "user_name": "Розалия",
+      "review": "Ваша доставка и ваши блюда лучшие в Харькове!) всегда очень вкусно, вовремя, всегда вежливые курьеры и девушки на телефоне"
+    },
+    {
+      "id": 7,
+      "user_name": "Елена",
+      "review": "Ооочень вкусно!!!!!"
+    },
+    {
+      "id": 8,
+      "user_name": "Сергей Гаврилюк",
+      "review": "Заказываем у Вас больше 2 -ух лет, были разные ситуации, но сервис стал лучше, суши вкуснее. За доставку сегодня на время, огромное спасибо, точь-в-точь в минута в минуту. Успехов Вам и приятных бонусов нам )"
+    },
+    {
+      "id": 9,
+      "user_name": "Cole Hengoed",
+      "review": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+    },
+    {
+      "id": 10,
+      "user_name": "Collete Stockford",
+      "review": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+    },
+    {
+      "id": 11,
+      "user_name": "Розалия",
+      "review": "Ваша доставка и ваши блюда лучшие в Харькове!) всегда очень вкусно, вовремя, всегда вежливые курьеры и девушки на телефоне"
+    },
+    {
+      "id": 12,
+      "user_name": "Елена",
+      "review": "Ооочень вкусно!!!!!"
+    },
+    {
+      "id": 13,
+      "user_name": "Сергей Гаврилюк",
+      "review": "Заказываем у Вас больше 2 -ух лет, были разные ситуации, но сервис стал лучше, суши вкуснее. За доставку сегодня на время, огромное спасибо, точь-в-точь в минута в минуту. Успехов Вам и приятных бонусов нам )"
+    },
+    {
+      "id": 14,
+      "user_name": "Cole Hengoed",
+      "review": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+    },
+    {
+      "id": 15,
+      "user_name": "Collete Stockford",
+      "review": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+    },
+    {
+      "user_name": "Sadaf",
+      "review": "dsfsdfsdf",
+      "id": 16
+    }
+  ],
+  "aksia": [
+    {
+      "id": 1,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 2,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 3,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 4,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 5,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 6,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 7,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 8,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 9,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 10,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 11,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 12,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 13,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 14,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 15,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 16,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 17,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 18,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 19,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    },
+    {
+      "id": 20,
+      "offers": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1671396220/ROMSEM/aksia/aksia_xbvitc.png"
+    }
+  ]
+}

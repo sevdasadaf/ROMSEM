@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "image": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1670324718/ROMSEM/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D1%81%D0%B5%D1%82_dman73.png",
+        "name":"Саломон сет",
+        "info":"1050 грамм, 30 кусочков",
+        "price":"1500 COM"
+    },
+
+    {
+        "id":2,
+        "image": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1670324684/ROMSEM/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_rril4s.png",
+        "name":"Филадельфия и лосось сет",
+        "info":"1260 грамм, 36 кусочков",
+        "price":"1150 COM"
+    },
+
+    {
+        "id":3,
+        "image": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1670324684/ROMSEM/%D0%A1%D0%B0%D0%BC%D0%B0%D1%8F%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_rb6ljb.png",
+        "name":"Самая большая Филадельфия",
+        "info":"2050 грамм, 45 кусочков",
+        "price":"2100 COM"
+    },
+
+    {
+        "id":4,
+        "image": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1670324675/ROMSEM/%D0%A1%D0%B5%D1%825%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D0%B9_wm4hnm.png",
+        "name":"Сет \"5 Филадельфий\"",
+        "info":"1120 грамм 40 кусочек",
+        "price":"1499 COM"
+    },
+
+    {
+        "id":5,
+        "image": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1670324675/ROMSEM/%D0%AF%D0%BA%D1%83%D0%B4%D0%B7%D0%B0%D1%81%D0%B5%D1%82_rqsm4u.png",
+        "name":"Якудза сет",
+        "info":"1270 грамм 50 кусочек",
+        "price":"1499 COM"
+    },
+
+    {
+        "id":6,
+        "image": "https://res.cloudinary.com/dsu2ze2wx/image/upload/v1670324675/ROMSEM/%D0%9A%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%D0%B4%D0%B7%D0%B5%D1%81%D0%B5%D1%82_wsxzku.png",
+        "name":"Камикадзе сет",
+        "info":"1200 грамм 52 кусочек",
+        "price":"1469 COM"
+    }
+]

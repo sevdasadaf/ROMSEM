@@ -1,0 +1,41 @@
+.order_sushi{
+  grid-column: 2/5; 
+} 
+
+.order_sushi h2{
+  color: #A4ACAD;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.order_sushi p {
+  display: flex;
+  flex-direction: column;
+  text-align: justify; 
+  font-weight: 400;
+  font-size: 1rem;
+  color: #A4ACAD;
+  gap: 1rem;
+}
+
+.order_sushi button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  color: #F46D40;
+  font-weight: 400;
+  font-size: 1.1rem;
+  outline: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.order_sushi ul {
+  padding: 1rem 0 1rem 2rem ;
+}
+
+.vec{
+    transform: rotate(180deg);
+}
